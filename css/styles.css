@@ -40,13 +40,13 @@ button{
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.header-menu-item:hover,
+.header-menu-item:hover{
+        color: #404bbf;
+}
 .header-menu-item:focus {
     color: #404bbf;
 }
-.header-menu-link:focus {
-    color: #404bbf;
-}
+
 .header-adress {
     font-weight: 400;
     font-size: 16px;
