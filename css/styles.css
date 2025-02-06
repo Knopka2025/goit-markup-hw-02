@@ -40,10 +40,10 @@ button{
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.header-menu-item:hover{
-        color: #404bbf;
+.header-item-link:hover{
+    color: #404bbf;
 }
-.header-menu-item:focus {
+.header-item-link:focus {
     color: #404bbf;
 }
 
