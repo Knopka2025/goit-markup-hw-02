@@ -44,6 +44,9 @@ button{
 .header-menu-item:focus {
     color: #404bbf;
 }
+.header-menu-link:focus {
+    color: #404bbf;
+}
 .header-adress {
     font-weight: 400;
     font-size: 16px;
@@ -58,7 +61,6 @@ button{
 .header-adress-list:focus{
     color:#404bbf;
 } 
-
 .hero {
     background: #2e2f42;
 }
